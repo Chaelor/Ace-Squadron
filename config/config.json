@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "password",
-    "database": "army_db",
+    "database": "guestBookDB",
     "host": "localhost",
     "dialect": "mysql"
   },
