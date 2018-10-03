@@ -12,5 +12,5 @@ TODOs:<br>
 <ul>
   <li>Make the fight screen better</li>
   <li>Add accounts and managment</li>
-  <li>Balance the units<li>
+  <li>Balance the units</li>
 </ul>
